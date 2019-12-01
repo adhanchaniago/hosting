@@ -90,7 +90,7 @@
                     </ul>
                   </li>
 
-                  <li class="sub">
+<!--                   <li class="sub">
                       <a onclick="" style="cursor:pointer;background:none"><i class="fa fa-gear"></i>&nbsp Advanced Search</a>
                       <ul class="treeview-menu">
  
@@ -122,7 +122,7 @@
 
                         </div>                   
                       </ul>                   
-                  </li>
+                  </li> -->
 
 
                   <!-- <li class="sub">
