@@ -1,5 +1,5 @@
         var map;
-        var server = "http://localhost/hosting/tourism_bkt/";
+        var server = "http://13.67.55.251/hosting/tourism_bkt/";
         var cekRadiusStatus = "off";   //RADIUS
         var circles = []; //RADIUS
         var rad; //RADIUS
